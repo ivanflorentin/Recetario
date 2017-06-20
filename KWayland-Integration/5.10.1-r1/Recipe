@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KWayland-Integration by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 13:19:50 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 13:19:50 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/kwayland-integration-5.10.1.tar.xz"
+file_size=18592
+file_md5=83d6309ebfe4a8628004951e1fd4208e
+dir='kwayland-integration-5.10.1'
+recipe_type=cmake

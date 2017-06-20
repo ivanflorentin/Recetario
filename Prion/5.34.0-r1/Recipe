@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Prion by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:40:31 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:40:31 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/prison-5.34.0.tar.xz"
+file_size=13580
+file_md5=c9bd6c1897c8632b7241293ea1bbb4ab
+dir='prison-5.34.0'
+recipe_type=cmake

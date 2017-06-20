@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Attica by Ivan Florentin <ivanflorentin@gmail.com>, on Fri Jun 9 23:03:03 PYT 2017
+# Recipe for version 5.34.0 by Ivan Florentin <ivanflorentin@gmail.com>, on Fri Jun 9 23:03:03 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/attica-5.34.0.tar.xz"
+file_size=60376
+file_md5=64f668aeb0ae98d7a956a3d77ff6b7f5
+dir='attica-5.34.0'
+recipe_type=cmake

@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KDBusAddons by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 19:21:58 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 19:21:58 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kdbusaddons-5.34.0.tar.xz"
+file_size=35072
+file_md5=5dc198d8d1f6896451b1eaf15a28308f
+dir='kdbusaddons-5.34.0'
+recipe_type=cmake

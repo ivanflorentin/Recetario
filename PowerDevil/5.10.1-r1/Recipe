@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for PowerDevil by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 13:27:18 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 13:27:18 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/powerdevil-5.10.1.tar.xz"
+file_size=361344
+file_md5=72fa2577cde5165a10fb21a7e315f375
+dir='powerdevil-5.10.1'
+recipe_type=cmake

@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for ECM by Ivan Florentin <ivanflorentin@gmail.com>, on Fri Jun 9 22:39:29 PYT 2017
+# Recipe for version 5.34.0 by Ivan Florentin <ivanflorentin@gmail.com>, on Fri Jun 9 22:39:29 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/extra-cmake-modules-5.34.0.tar.xz"
+file_size=312800
+file_md5=fdbf1beac421ef98c41a3a1a3703fbb4
+dir='extra-cmake-modules-5.34.0'
+recipe_type=cmake

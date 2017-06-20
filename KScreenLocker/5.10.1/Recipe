@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KScreenLocker by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:21:59 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:21:59 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/kscreenlocker-5.10.1.tar.xz"
+file_size=110604
+file_md5=dd0ceed7f7388f6b38e3594092c8c05f
+dir='kscreenlocker-5.10.1'
+recipe_type=cmake

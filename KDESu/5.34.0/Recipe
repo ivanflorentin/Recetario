@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KDESu by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 20:56:18 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 20:56:18 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kdesu-5.34.0.tar.xz"
+file_size=44628
+file_md5=ff57dbae99d31603c36f9b59a2f88780
+dir='kdesu-5.34.0'
+recipe_type=cmake

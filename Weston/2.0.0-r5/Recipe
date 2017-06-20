@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Weston by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 10:41:55 PYT 2017
+# Recipe for version 2.0.0-r5 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 10:41:55 PYT 2017
+compile_version=016.01
+url="https://wayland.freedesktop.org/releases/weston-2.0.0.tar.xz"
+file_size=1272628
+file_md5=15f38945942bf2a91fe2687145fb4c7d
+dir='weston-2.0.0'
+recipe_type=configure

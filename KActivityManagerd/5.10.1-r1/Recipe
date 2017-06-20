@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KActivityManagerd by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 15:32:45 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 15:32:45 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/kactivitymanagerd-5.10.1.tar.xz"
+file_size=84148
+file_md5=952c2a84f000ca86d1710292e874c73b
+dir='kactivitymanagerd-5.10.1'
+recipe_type=cmake

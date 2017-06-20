@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KDE-GTK-Config by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 13:08:56 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 13:08:56 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/kde-gtk-config-5.10.1.tar.xz"
+file_size=152116
+file_md5=e053a99a0eb1be8004b5b51673ca18fb
+dir='kde-gtk-config-5.10.1'
+recipe_type=cmake

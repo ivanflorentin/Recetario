@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KNotifyConfig by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 00:47:19 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 00:47:19 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/knotifyconfig-5.34.0.tar.xz"
+file_size=83276
+file_md5=a89c130ec60f90d26b44c5c41d8c1e37
+dir='knotifyconfig-5.34.0'
+recipe_type=cmake

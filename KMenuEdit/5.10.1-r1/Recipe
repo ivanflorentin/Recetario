@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KMenuEdit by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 13:15:16 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 13:15:16 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/kmenuedit-5.10.1.tar.xz"
+file_size=650884
+file_md5=36bdad0c5b6e42aad91b26376e2ada79
+dir='kmenuedit-5.10.1'
+recipe_type=cmake

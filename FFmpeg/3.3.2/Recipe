@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for FFmpeg by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 04:16:33 PYT 2017
+# Recipe for version 3.3.2 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 04:16:33 PYT 2017
+compile_version=016.01
+url="http://ffmpeg.org/releases/ffmpeg-3.3.2.tar.bz2"
+file_size=9937466
+file_md5=e6e3b5f85eb5cb5448501fe4d8ca5bd0
+dir='ffmpeg-3.3.2'
+recipe_type=configure

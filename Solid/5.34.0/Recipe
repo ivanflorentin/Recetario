@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Solid by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 19:50:35 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 19:50:35 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/solid-5.34.0.tar.xz"
+file_size=247944
+file_md5=43050a891de0be5d79ac488e56012398
+dir='solid-5.34.0'
+recipe_type=cmake

@@ -1,0 +1,29 @@
+# Recipe (MakeRecipe) for Mesa by Ivan Florentin <ivanflorentin@gmail.com>, on Thu Jun 15 22:41:51 PYT 2017
+# Recipe for version 17.1.2-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Thu Jun 15 22:41:51 PYT 2017
+compile_version=016.01
+url="https://mesa.freedesktop.org/archive/mesa-17.1.2.tar.xz"
+file_size=9837516
+file_md5=4d2eaf5955740b044afd95ed167c906c
+dir='mesa-17.1.2'
+recipe_type=configure
+
+
+configure_options=(
+	--enable-gbm
+	--enable-texture-float
+	--enable-driglx-direct
+
+	--with-egl-platforms="drm,x11"
+#	--with-dri-driverdir=#"${goboLibraries}/xorg/modules/dri"
+	--without-gallium-drivers
+#"${goboLibraries}/xorg/modules/dri"
+)
+
+install_variables=(
+	 LIBDRM_LIBS="${target}/lib/xorg/modules/dri"
+	 #DRI_DRIVER_INSTALL_DIR="${target}/lib/xorg/modules/dri"
+   )
+
+symlink_options=(
+   --conflict=overwrite
+   )

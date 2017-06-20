@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Plasma-Desktop by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 13:42:05 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 13:42:05 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/plasma-desktop-5.10.1.tar.xz"
+file_size=6085552
+file_md5=e0b603e1128eb4d11e796a2a07bf57bd
+dir='plasma-desktop-5.10.1'
+recipe_type=cmake

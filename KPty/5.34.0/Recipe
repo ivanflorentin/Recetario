@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KPty by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 20:42:09 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 20:42:09 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kpty-5.34.0.tar.xz"
+file_size=57936
+file_md5=d921308e25f7a79a88f9bb8fffed8453
+dir='kpty-5.34.0'
+recipe_type=cmake

@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for SystemSettings by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:36:44 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:36:44 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/systemsettings-5.10.1.tar.xz"
+file_size=155624
+file_md5=34ee8c3080685f4cbce2f6ca57cdf7a9
+dir='systemsettings-5.10.1'
+recipe_type=cmake

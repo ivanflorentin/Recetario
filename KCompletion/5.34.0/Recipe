@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KCompletion by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 20:42:53 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 20:42:53 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kcompletion-5.34.0.tar.xz"
+file_size=117480
+file_md5=34b9b0cc3d61210683a872976d27b9c9
+dir='kcompletion-5.34.0'
+recipe_type=cmake

@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Breeze-Icons by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:30:07 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:30:07 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/breeze-icons-5.34.0.tar.xz"
+file_size=1499416
+file_md5=9d13ea7dcd31efb400e2f5a64db48179
+dir='breeze-icons-5.34.0'
+recipe_type=cmake

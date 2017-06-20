@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KTextEditor by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:01:55 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:01:55 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/ktexteditor-5.34.0.tar.xz"
+file_size=2242128
+file_md5=da4b300b11c309f72484235313a27351
+dir='ktexteditor-5.34.0'
+recipe_type=cmake

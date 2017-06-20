@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KDnssd by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 19:25:54 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 19:25:54 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kdnssd-5.34.0.tar.xz"
+file_size=56568
+file_md5=34556a2f5c33bb101c665243a6618f84
+dir='kdnssd-5.34.0'
+recipe_type=cmake

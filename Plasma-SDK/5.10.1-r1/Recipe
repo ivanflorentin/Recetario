@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Plasma-SDK by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 15:10:31 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 15:10:31 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/plasma-sdk-5.10.1.tar.xz"
+file_size=244924
+file_md5=9c5f89c6924e40e0d5531e0eaffa4ddc
+dir='plasma-sdk-5.10.1'
+recipe_type=cmake

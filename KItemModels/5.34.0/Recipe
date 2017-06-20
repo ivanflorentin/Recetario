@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KItemModels by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 19:37:05 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 19:37:05 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kitemmodels-5.34.0.tar.xz"
+file_size=388948
+file_md5=d5133f83bc354eab9e42fcf588cddbd2
+dir='kitemmodels-5.34.0'
+recipe_type=cmake

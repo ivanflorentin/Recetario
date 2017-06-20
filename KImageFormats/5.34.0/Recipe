@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KImageFormats by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 19:35:22 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 19:35:22 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kimageformats-5.34.0.tar.xz"
+file_size=204424
+file_md5=5de2f07b336858195eaa138d2811e8b2
+dir='kimageformats-5.34.0'
+recipe_type=cmake

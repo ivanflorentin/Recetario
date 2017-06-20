@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KEmoticons by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 20:57:44 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 20:57:44 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kemoticons-5.34.0.tar.xz"
+file_size=1695212
+file_md5=eb2381de7b6905e7968859258c7d4731
+dir='kemoticons-5.34.0'
+recipe_type=cmake

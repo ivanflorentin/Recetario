@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Plasma-PA by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 13:29:47 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 13:29:47 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/plasma-pa-5.10.1.tar.xz"
+file_size=78960
+file_md5=7095e16b35ffe05a8b8cb766347a7123
+dir='plasma-pa-5.10.1'
+recipe_type=cmake

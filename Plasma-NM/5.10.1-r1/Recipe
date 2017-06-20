@@ -1,0 +1,6 @@
+# Recipe (MakeRecipe) for Plasma-NM by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 13:24:51 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 13:24:51 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/plasma-nm-5.10.1.tar.xz.sig"
+file_size=473
+file_md5=ea89d58e97858656f049a17e9c1f3018

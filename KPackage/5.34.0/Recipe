@@ -1,0 +1,4 @@
+# Recipe (MakeRecipe) for KPackage by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 20:53:12 PYT 2017
+# Recipe for version 5.34.0 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 20:53:12 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kpackage-5.34.0.tar.xz"

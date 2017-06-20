@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Karchive by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 17:18:02 PYT 2017
+# Recipe for version 5.34.0 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 17:18:02 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/karchive-5.34.0.tar.xz"
+file_size=112156
+file_md5=0c7b013cd3f176f25038c002bc706979
+dir='karchive-5.34.0'
+recipe_type=cmake

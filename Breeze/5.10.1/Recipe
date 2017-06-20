@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Breeze by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:18:15 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:18:15 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/breeze-5.10.1.tar.xz"
+file_size=17427296
+file_md5=b6a3ae183bcf6d0ddf94f832fb75db90
+dir='breeze-5.10.1'
+recipe_type=cmake

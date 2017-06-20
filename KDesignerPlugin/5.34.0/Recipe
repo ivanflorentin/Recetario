@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KDesignerPlugin by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:05:02 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:05:02 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kdesignerplugin-5.34.0.tar.xz"
+file_size=90264
+file_md5=760797a5697383a23dc28c043776f6b7
+dir='kdesignerplugin-5.34.0'
+recipe_type=cmake

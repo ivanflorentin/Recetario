@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Plasma-Workspace-Wallpapers by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 13:25:53 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 13:25:53 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/plasma-workspace-wallpapers-5.10.1.tar.xz"
+file_size=45913108
+file_md5=bd777a975f5a794cd77dd04e95764c0a
+dir='plasma-workspace-wallpapers-5.10.1'
+recipe_type=cmake

@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KPeople by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:17:37 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:17:37 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kpeople-5.34.0.tar.xz"
+file_size=58916
+file_md5=b03e735f9113b177a9a840c8910c8e02
+dir='kpeople-5.34.0'
+recipe_type=cmake

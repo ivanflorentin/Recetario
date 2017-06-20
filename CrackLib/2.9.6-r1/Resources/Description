@@ -1,0 +1,5 @@
+[Name] CrackLib
+[Summary] The CrackLib package contains a library used to enforce strong passwords by comparing user selected passwords to words in chosen word lists.
+[Description] The CrackLib package contains a library used to enforce strong passwords by comparing user selected passwords to words in chosen word lists.
+[License] Other
+[Homepage] https://github.com/cracklib/cracklib/

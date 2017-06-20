@@ -1,0 +1,10 @@
+Eudev 3.2
+GLib 2.49.5
+Glibc 2.24
+LibEvdev 1.5.6
+LibFFI 3.2.1
+LibGUdev 230
+LibWacom 0.22
+MtDev 1.1.5
+PCRE 8.38
+ZLib 1.2.8

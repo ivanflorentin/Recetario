@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for UserManager by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 15:12:09 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 15:12:09 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/user-manager-5.10.1.tar.xz"
+file_size=544704
+file_md5=215ef8c4ca00de815bd491fc7d53a53f
+dir='user-manager-5.10.1'
+recipe_type=cmake

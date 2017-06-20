@@ -1,0 +1,8 @@
+# Recipe for version 1.7.3-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 18:18:51 PYT 2017
+# Recipe (MakeRecipe) for LibInput by Lucas C. Villa Real <lucasvr@gobolinux.org>, on Mon Aug 8 01:08:18 GMT 2016
+compile_version=2.0
+url="https://www.freedesktop.org/software/libinput/libinput-1.7.3.tar.xz"
+file_size=922464
+file_md5=f2993b477db8d7ec0e785ce04ffecb03
+dir='libinput-1.7.3'
+recipe_type=configure

@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KNewStuff by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 22:43:15 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 22:43:15 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/knewstuff-5.34.0.tar.xz"
+file_size=884056
+file_md5=560d1d39a62a016b92554e75c8cf25bf
+dir='knewstuff-5.34.0'
+recipe_type=cmake

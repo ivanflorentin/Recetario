@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KCoreAddons by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 19:20:04 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 19:20:04 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kcoreaddons-5.34.0.tar.xz"
+file_size=343612
+file_md5=5b8ee514c5ecbe6febe28af2686566ad
+dir='kcoreaddons-5.34.0'
+recipe_type=cmake

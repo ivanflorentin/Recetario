@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Baloo by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:26:22 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:26:22 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/baloo-5.34.0.tar.xz"
+file_size=194156
+file_md5=2545137d47bf0545f0b99d73520e65e5
+dir='baloo-5.34.0'
+recipe_type=cmake

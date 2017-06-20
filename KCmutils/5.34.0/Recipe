@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KCmutils by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 21:58:11 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 21:58:11 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kcmutils-5.34.0.tar.xz"
+file_size=235336
+file_md5=c1afcc332098a7c0f104629d1f67e4ad
+dir='kcmutils-5.34.0'
+recipe_type=cmake

@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for NetworkManager-Qt by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 19:49:34 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 19:49:34 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/networkmanager-qt-5.34.0.tar.xz"
+file_size=157276
+file_md5=66ed35d3a44b3ae7c04bc740cd553f01
+dir='networkmanager-qt-5.34.0'
+recipe_type=cmake

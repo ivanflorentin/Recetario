@@ -1,0 +1,9 @@
+# Recipe (MakeRecipe) for OpenImageIO by Ivan Florentin <ivanflorentin@gmail.com>, on Sun May 28 11:03:53 PYT 2017
+# Recipe for version latest by Ivan Florentin <ivanflorentin@gmail.com>, on Sun May 28 11:03:53 PYT 2017
+compile_version=016.01
+url="https://github.com/OpenImageIO/oiio/archive/release.zip"
+file="oiio-release.zip"
+file_size=27726249
+file_md5=5825dbffa468907c717f4771287bdb91
+dir='oiio-release'
+recipe_type=cmake

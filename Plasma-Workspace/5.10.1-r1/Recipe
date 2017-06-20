@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Plasma-Workspace by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:39:21 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:39:21 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/plasma-workspace-5.10.1.tar.xz"
+file_size=6953268
+file_md5=1b44177fae2eaa36dd295fa16f4e96f7
+dir='plasma-workspace-5.10.1'
+recipe_type=cmake

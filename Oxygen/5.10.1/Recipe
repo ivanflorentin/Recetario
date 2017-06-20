@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Oxygen by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:24:04 PYT 2017
+# Recipe for version 5.10.1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:24:04 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/oxygen-5.10.1.tar.xz"
+file_size=4469712
+file_md5=aff2d5123b980ba373b8f18a856c28fe
+dir='oxygen-5.10.1'
+recipe_type=cmake

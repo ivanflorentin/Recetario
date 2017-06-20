@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Framework-Integration by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 00:42:02 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 00:42:02 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/frameworkintegration-5.34.0.tar.xz"
+file_size=1751972
+file_md5=197162d3e09c27e286ba5ff0cf14a49b
+dir='frameworkintegration-5.34.0'
+recipe_type=cmake

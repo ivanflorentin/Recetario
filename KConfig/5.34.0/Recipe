@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KConfig by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 17:25:18 PYT 2017
+# Recipe for version 5.34.0 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 17:25:18 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kconfig-5.34.0.tar.xz"
+file_size=232084
+file_md5=51788f84902358d7840c1d4ed111a80d
+dir='kconfig-5.34.0'
+recipe_type=cmake

@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Kross by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 15:02:21 PYT 2017
+# Recipe for version 5.34.0-r2 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 15:02:21 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/portingAids/kross-5.34.0.tar.xz"
+file_size=127648
+file_md5=c211cb58f6c4a6082cb431fa536229dd
+dir='kross-5.34.0'
+recipe_type=cmake

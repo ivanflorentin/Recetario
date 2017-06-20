@@ -1,0 +1,5 @@
+# Recipe (MakeRecipe) for Amarok by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 03:44:37 PYT 2017
+# Recipe for version git by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 03:44:37 PYT 2017
+compile_version=016.01
+git="http://anongit.kde.org/amarok"
+recipe_type=cmake

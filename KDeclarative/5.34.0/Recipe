@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KDeclarative by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 21:41:53 PYT 2017
+# Recipe for version 5.34.0 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 21:41:53 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kdeclarative-5.34.0.tar.xz"
+file_size=169124
+file_md5=5b787db5a2ad709fca9ad23319aa3073
+dir='kdeclarative-5.34.0'
+recipe_type=cmake

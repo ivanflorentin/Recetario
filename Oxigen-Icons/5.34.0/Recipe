@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Oxigen-Icons by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:32:01 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:32:01 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/oxygen-icons5-5.34.0.tar.xz"
+file_size=234259068
+file_md5=0353fbb43ad0892e6f16cca840523493
+dir='oxygen-icons5-5.34.0'
+recipe_type=cmake

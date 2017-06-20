@@ -1,0 +1,5 @@
+# Recipe for version 1.5.6 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 18:21:02 PYT 2017
+# Recipe (MakeRecipe) for LibEvdev by Lucas C. Villa Real <lucasvr@gobolinux.org>, on Fri Aug 29 22:52:54 BRT 2014
+compile_version=2.0
+url="http://www.freedesktop.org/software/libevdev/libevdev-1.5.6.tar.xz"
+recipe_type=configure

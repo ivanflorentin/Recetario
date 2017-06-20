@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KDecoration by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:11:46 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:11:46 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/kdecoration-5.10.1.tar.xz"
+file_size=35532
+file_md5=df578e2e1aff7bae3d0644222f0cdf68
+dir='kdecoration-5.10.1'
+recipe_type=cmake

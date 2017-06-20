@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KFileMetadata by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:24:46 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:24:46 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kfilemetadata-5.34.0.tar.xz"
+file_size=216148
+file_md5=a7341eb3e20f180066470ba38533447c
+dir='kfilemetadata-5.34.0'
+recipe_type=cmake

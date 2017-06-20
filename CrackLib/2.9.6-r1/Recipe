@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for CrackLib by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 15:24:34 PYT 2017
+# Recipe for version 2.9.6-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 15:24:34 PYT 2017
+compile_version=016.01
+url="https://github.com/cracklib/cracklib/releases/download/cracklib-2.9.6/cracklib-2.9.6.tar.gz"
+file_size=642402
+file_md5=c52f463585d85924b28cdc1e373ae06d
+dir='cracklib-2.9.6'
+recipe_type=configure

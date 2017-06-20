@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KParts by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 00:48:17 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 00:48:17 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kparts-5.34.0.tar.xz"
+file_size=155424
+file_md5=84cf7f77790cd8f2de85726fb16a3b73
+dir='kparts-5.34.0'
+recipe_type=cmake

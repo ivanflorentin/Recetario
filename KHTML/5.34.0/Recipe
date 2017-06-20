@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KHTML by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:45:55 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:45:55 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/portingAids/khtml-5.34.0.tar.xz"
+file_size=2086052
+file_md5=9c698d6d09b31a537ac6cdf31aa90de7
+dir='khtml-5.34.0'
+recipe_type=cmake

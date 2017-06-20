@@ -1,0 +1,10 @@
+# Recipe for version git by Ivan Florentin <ivanflorentin@gmail.com>, on Wed Jun 14 11:53:39 PYT 2017
+compile_version=1.8.2
+git="git://git.gnome.org/vte"
+recipe_type=configure
+
+pre_link() {
+    Quiet pushd $target/lib/pkgconfig
+    ln -sf vte-*.pc vte.pc
+    Quiet popd
+}

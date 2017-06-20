@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KHotKeys by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 13:13:04 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 13:13:04 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/khotkeys-5.10.1.tar.xz"
+file_size=700540
+file_md5=b314bddc000cbff4c317bfe62fe696c6
+dir='khotkeys-5.10.1'
+recipe_type=cmake

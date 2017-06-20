@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KActivities by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:34:40 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:34:40 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kactivities-5.34.0.tar.xz"
+file_size=61076
+file_md5=67cc9be7978878d578295a885b9d6737
+dir='kactivities-5.34.0'
+recipe_type=cmake

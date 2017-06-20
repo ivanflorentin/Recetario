@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Plasma-Tests by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 15:35:40 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 15:35:40 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/plasma-tests-5.10.1.tar.xz"
+file_size=1164
+file_md5=f5689252c692286fddaa0125d16186cf
+dir='plasma-tests-5.10.1'
+recipe_type=cmake

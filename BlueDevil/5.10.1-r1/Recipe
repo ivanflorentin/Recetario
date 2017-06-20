@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for BlueDevil by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:40:22 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:40:22 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/bluedevil-5.10.1.tar.xz"
+file_size=144404
+file_md5=4d2bf5c9930a6e290d670cf3b2ff62e2
+dir='bluedevil-5.10.1'
+recipe_type=cmake

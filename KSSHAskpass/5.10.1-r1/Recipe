@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KSSHAskpass by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 15:05:54 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 15:05:54 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/ksshaskpass-5.10.1.tar.xz"
+file_size=20140
+file_md5=1a4b68c6bdde77d1373ca46e8293bd6c
+dir='ksshaskpass-5.10.1'
+recipe_type=cmake

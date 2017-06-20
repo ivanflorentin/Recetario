@@ -1,0 +1,19 @@
+# Recipe for version 4.9.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 21:09:44 PYT 2017
+# Recipe (MakeRecipe) for Phonon by Paul Gideon Dann <pdgiddie+gobo@gmail.com>, on Fri Sep 19 13:16:45 BST 2008
+compile_version=1.11.2
+url="http://download.kde.org/stable/phonon/4.9.1/phonon-4.9.1.tar.xz"
+file_size=321872
+file_md5=7896a560f5da345a626e782610c8e71e
+recipe_type=cmake
+
+cmake_options=(
+   -DCMAKE_BUILD_TYPE=Release
+   -DCMAKE_INSTALL_LIBDIR=lib
+   -DQT_MKSPECS_DIR=$target/mkspecs
+   -DQT_PLUGINS_DIR=$target/plugins
+   -DPHONON_INSTALL_QT_EXTENSIONS_INTO_SYSTEM_QT=TRUE
+   -DDBUS_INTERFACES_INSTALL_DIR=$target/share/dbus-1/interfaces
+   -DPHONON_BUILD_PHONON4QT5=ON
+#   -DCMAKE_PREFIX_PATH=/opt/Qt5.0.0/5.0.0/gcc_64
+   -DPHONON_INSTALL_QT_EXTENSIONS_INTO_SYSTEM_QT=ON  
+)

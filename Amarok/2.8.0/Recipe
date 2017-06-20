@@ -1,0 +1,7 @@
+# Recipe for version 2.8.0 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 16:44:07 PYT 2017
+# Recipe (MakeRecipe) for Amarok by Frank Wilson, on Mon Dec 15 23:09:07 GMT 2.8.968
+compile_version=1.11.4
+url="http://download.kde.org/stable/amarok/2.8.0/src/amarok-2.8.0.tar.bz2"
+file_size=39950028
+file_md5=53cfcb4819668b10e13b061478c7b32a
+recipe_type=cmake

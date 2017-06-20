@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KJobWidgets by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 21:01:33 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 21:01:33 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kjobwidgets-5.34.0.tar.xz"
+file_size=89544
+file_md5=1c65bee5dfc02d7671228dd90c59e19b
+dir='kjobwidgets-5.34.0'
+recipe_type=cmake

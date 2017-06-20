@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KAuth by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 20:34:36 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 20:34:36 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kauth-5.34.0.tar.xz"
+file_size=84248
+file_md5=80e2d4a4d1657d70ddceb5f354074eb7
+dir='kauth-5.34.0'
+recipe_type=cmake

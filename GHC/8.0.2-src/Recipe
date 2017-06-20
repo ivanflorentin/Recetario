@@ -1,0 +1,28 @@
+# Recipe for version 8.0.2-src by Ivan Florentin <ivanflorentin@gmail.com>, on Tue May 16 00:25:18 PYT 2017
+# Recipe (MakeRecipe) for GHC by Peter Eriksen <s022018@student.dtu.dk>, on Tue Feb 22 12:51:35 CET 2005
+compile_version=1.13.0
+url="https://downloads.haskell.org/~ghc/8.0.2/ghc-8.0.2-src.tar.xz"
+file_size=10687760
+file_md5=d0afb5ec441b14527a53d2445cc26ec3
+dir='ghc-8.0.2'
+recipe_type=configure
+
+pre_build() {
+  [ -d $target ] && Die "GHC 8.0.2 cannot install itself; remove and use previous version or GHC-bin to install 8.0.1"
+
+cat > mk/build.mk << GOBOMK
+SRC_HC_OPTS     = -O -H64m
+GhcStage1HcOpts = -O -fasm
+GhcStage2HcOpts = -O2 -fasm
+GhcHcOpts       = -Rghc-timing
+GhcRtsCcOpts    = -O2 -pg
+GhcLibHcOpts    = -O2 -XGenerics
+GhcLibWays     += mp thr_dyn
+GhcLibWays      = v
+ghclibdir       = $goboSystem/Aliens/Cabal/ghc-$version/lib
+GOBOMK
+}
+
+unmanaged_files=(
+		"$goboSystem/Aliens/Cabal/ghc-$version"
+)

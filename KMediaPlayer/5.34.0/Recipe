@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KMediaPlayer by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:03:28 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:03:28 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/portingAids/kmediaplayer-5.34.0.tar.xz"
+file_size=9544
+file_md5=3d3ff38e82c4ade51ac7045b4bed1196
+dir='kmediaplayer-5.34.0'
+recipe_type=cmake

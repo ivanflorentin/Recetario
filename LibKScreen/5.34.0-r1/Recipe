@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for LibKScreen by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:13:04 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:13:04 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/libkscreen-5.10.1.tar.xz"
+file_size=93904
+file_md5=01fc7d39d99d7485183670d1d236a745
+dir='libkscreen-5.10.1'
+recipe_type=cmake

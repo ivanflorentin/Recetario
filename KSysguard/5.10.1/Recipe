@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KSysguard by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:32:04 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:32:04 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/ksysguard-5.10.1.tar.xz"
+file_size=488684
+file_md5=b3a51ad3e224160292c5f5bc55faf5a5
+dir='ksysguard-5.10.1'
+recipe_type=cmake

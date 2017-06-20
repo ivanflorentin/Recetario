@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Plasma-Integration by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 15:33:44 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 17 15:33:44 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/plasma-integration-5.10.1.tar.xz"
+file_size=51336
+file_md5=3a6c729f55f8b7cf4a8c695b52f636b1
+dir='plasma-integration-5.10.1'
+recipe_type=cmake

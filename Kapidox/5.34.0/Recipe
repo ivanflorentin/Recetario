@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Kapidox by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 16:54:59 PYT 2017
+# Recipe for version 5.34.0 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 16:54:59 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kapidox-5.34.0.tar.xz"
+file_size=395944
+file_md5=1ed1b8b3928d4cae92e7783be780e2a9
+dir='kapidox-5.34.0'
+recipe_type=cmake

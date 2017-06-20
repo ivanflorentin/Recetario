@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KWin by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:33:50 PYT 2017
+# Recipe for version 5.10.1-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 02:33:50 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/plasma/5.10.1/kwin-5.10.1.tar.xz"
+file_size=4663568
+file_md5=e339469371ae1d46a4e58f1abd4becec
+dir='kwin-5.10.1'
+recipe_type=cmake

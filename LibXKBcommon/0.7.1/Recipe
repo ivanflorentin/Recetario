@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for LibXKBcommon by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 03:01:20 PYT 2017
+# Recipe for version 0.7.1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 03:01:20 PYT 2017
+compile_version=016.01
+url="https://xkbcommon.org/download/libxkbcommon-0.7.1.tar.xz"
+file_size=622384
+file_md5=947ba609cb0239b9462127d5cf8908ee
+dir='libxkbcommon-0.7.1'
+recipe_type=configure

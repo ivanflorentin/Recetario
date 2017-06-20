@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KCrash by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 20:39:20 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 20:39:20 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kcrash-5.34.0.tar.xz"
+file_size=21368
+file_md5=28a6ddd2560e283694ca6e0b97a432fc
+dir='kcrash-5.34.0'
+recipe_type=cmake

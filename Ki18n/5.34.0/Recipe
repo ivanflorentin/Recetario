@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Ki18n by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 19:31:06 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 19:31:06 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/ki18n-5.34.0.tar.xz"
+file_size=606692
+file_md5=314ae60902e4870ae4df51decf4cedf3
+dir='ki18n-5.34.0'
+recipe_type=cmake

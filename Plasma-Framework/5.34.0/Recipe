@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Plasma-Framework by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:14:12 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:14:12 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/plasma-framework-5.34.0.tar.xz"
+file_size=4602396
+file_md5=848bae2f46d63821c4fbf846bdd83b0e
+dir='plasma-framework-5.34.0'
+recipe_type=cmake

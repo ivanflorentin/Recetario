@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KInit by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 22:45:37 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 22:45:37 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/kinit-5.34.0.tar.xz"
+file_size=120984
+file_md5=02b40f5ac18ebed7afd35e71bd621345
+dir='kinit-5.34.0'
+recipe_type=cmake

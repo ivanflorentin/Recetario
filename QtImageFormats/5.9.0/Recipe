@@ -1,0 +1,9 @@
+# Recipe (MakeRecipe) for QtImageFormats by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 16:47:59 PYT 2017
+# Recipe for version 5.9.0 by Ivan Florentin <ivanflorentin@gmail.com>, on Sat Jun 10 16:47:59 PYT 2017
+compile_version=016.01
+url="http://download.qt.io/official_releases/qt/5.9/5.9.0/submodules/qtimageformats-opensource-src-5.9.0.tar.xz"
+file_size=2094680
+file_md5=0f579113cd7619c0392b0778c14b17e5
+dir='qtimageformats-opensource-src-5.9.0'
+recipe_type=configure
+autogen_before_configure=yes

@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for KRunner by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:38:00 PYT 2017
+# Recipe for version 5.34.0-r1 by Ivan Florentin <ivanflorentin@gmail.com>, on Sun Jun 11 01:38:00 PYT 2017
+compile_version=016.01
+url="https://download.kde.org/stable/frameworks/5.34/krunner-5.34.0.tar.xz"
+file_size=67540
+file_md5=7c6f7f251f56b74619cf7cb2cfea857d
+dir='krunner-5.34.0'
+recipe_type=cmake

@@ -1,0 +1,7 @@
+# Recipe (MakeRecipe) for SBCL by Ivan Florentin <ivanflorentin@gmail.com>, on Wed Jun 14 15:30:08 PYT 2017
+# Recipe for version 1.3.18-r5 by Ivan Florentin <ivanflorentin@gmail.com>, on Wed Jun 14 15:30:08 PYT 2017
+compile_version=016.01
+url="$httpSourceforge/sbcl/sbcl-1.3.18-source.tar.bz2"
+file_size=5850931
+file_md5=b2271afe0bc390db349d20640430a000
+dir='sbcl-1.3.18'
